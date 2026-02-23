@@ -15,13 +15,6 @@
 - 安全性提示：第一次執行時，Excel 可能會出現「安全性警告 - 已停用巨集」，請點擊 「啟用內容」 即可。
 
 ---
-# 測試檔案（test_dataset）介紹
-1. labs：實驗室經費代碼
-2. students：學生資料
-3. usage：軟體使用紀錄
-註：學校系統下載之檔案與測試檔案類似
-
----
 # 程式碼（scripts）介紹
 1. Funding.bas：各計劃經費下的總使用時數
 2. LAB_total_time.bas：各實驗室使用付費軟體總時數
@@ -29,3 +22,10 @@
 4. Top_student.bas：重度使用者排行（Top5）
 5. Warning.bas：有帳號但「無使用」的使用者
 6. department.bas：各系所資源耗用
+
+---
+# 測試檔案（test_dataset）介紹
+1. labs：實驗室經費代碼
+2. students：學生資料
+3. usage：軟體使用紀錄
+註：學校系統下載之檔案與測試檔案類似
