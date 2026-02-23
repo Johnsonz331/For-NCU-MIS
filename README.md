@@ -20,3 +20,12 @@
 2. students：學生資料
 3. usage：軟體使用紀錄
 註：學校系統下載之檔案與測試檔案類似
+
+---
+# 程式碼（scripts）介紹
+1. Funding.bas：各計劃經費下的總使用時數
+2. LAB_total_time.bas：各實驗室使用付費軟體總時數
+3. Top_software.bas：熱門軟體排行（Top3）
+4. Top_student.bas：重度使用者排行（Top5）
+5. Warning.bas：有帳號但「無使用」的使用者
+6. department.bas：各系所資源耗用
