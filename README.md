@@ -1,7 +1,8 @@
 # For-NCU-MIS
 
-一鍵產出付費軟體使用時數統計報表
+一鍵產出付費軟體使用時數統計報表  
 
+![Demo](Excel/Demo.png)
 ---
 # 準備工作
 1. 將 labs.csv, students.csv, usage.csv 三個檔案放在同一個資料夾下。  
