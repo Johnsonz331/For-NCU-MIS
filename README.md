@@ -3,7 +3,8 @@
 一鍵產出付費軟體使用時數統計報表  
 
 ![Demo](Excel/Demo.png)  
-Demo影片： [Demo]([https://www.runoob.com](https://www.youtube.com/watch?v=J0tBl-VmcOc))
+Demo影片：[Demo](https://www.youtube.com/watch?v=J0tBl-VmcOc)
+
 ---
 # 準備工作
 1. 將 labs.csv, students.csv, usage.csv 三個檔案放在同一個資料夾下。  
