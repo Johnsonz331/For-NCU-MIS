@@ -9,6 +9,10 @@
 點選選單 [工具] (Tools) -> [引用項目] (References)。  
 勾選 Microsoft ActiveX Data Objects 6.1 Library (若沒有 6.1，選 2.8 或最新版本即可)。  
 
+## 可能出現問題
+- 存檔格式：這份 Excel 檔案必須存成 「Excel 啟用巨集的活頁簿 (.xlsm)」，否則按鈕跟程式碼在下次開啟時會消失。
+- 安全性提示：第一次執行時，Excel 可能會出現「安全性警告 - 已停用巨集」，請點擊 「啟用內容」 即可。
+
 # 測試檔案（test_dataset）介紹
 1. labs：實驗室經費代碼
 2. students：學生資料
